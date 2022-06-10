@@ -5,9 +5,9 @@
 
 ## Sobre o projeto - About the project
 
-Esta é uma interface de Dashboard construida durante o curso Ignite da Rocketseat. A aplicação foi inteiramente desenvolvida com a biblioteca ChakraUi do React
+Este app é um desafio realizado durante o Ignite da Rocketseat. O desafio erá implementar uma interface a partir de layout no figma utilizando apenas ChakraUi.
 
-This is a Dashboard interface built during Rocketseat's Ignite course. The application was fully developed with the ChakraUi library from React
+This app is a challenge held during Rocketseat's Ignite. The challenge will be to implement an interface from a layout in figma using only ChakraUi.
 
 <h1 align="center" display="flex">
    <img height="500px" src=".github/1.png">
